@@ -10,4 +10,17 @@ cin >> number;
     cout << "You entered " << number; 
 cout << "You entered " << number;   
     return 0;
+cout << "Enter an integer: ";
+    cin >> number;
+cin >> number;
+    cout << "You entered " << number; 
+cout << "You entered " << number;   
+    return 0;
+cout << "Enter an integer: ";
+    cin >> number;
+cin >> number;
+    cout << "You entered " << number; 
+cout << "You entered " << number;   
+    return 0;
+
 }
