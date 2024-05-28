@@ -4,10 +4,23 @@ using namespace std;
 int main() {    
     int string;
 
-    cout << "Enter an integer: ";
+    cout << "Enter an integer13s";
     cin >> number;
 cin >> number;
     cout << "You entered " << number; 
 cout << "You entered " << number;   
     return 0;
+cout << "Enter an integer: ";
+    cin >> number;
+cin >> number;
+    cout << "You entered " << number; 
+cout << "You entered " << number;   
+    return 0;
+cout << "Enter an integer: ";
+    cin >> number;
+cin >> number;
+    cout << "You entered " << number; 
+cout << "You entered " << number;   
+    return 0;
+
 }
