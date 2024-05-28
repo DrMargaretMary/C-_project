@@ -3,6 +3,7 @@ using namespace std;
 
 int main() {    
     int string;
+int a, b, c;
 
     cout << "Enter an integer13s";
     cin >> number;
